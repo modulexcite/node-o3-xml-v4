@@ -1,5 +1,6 @@
 {
     "name": "node-o3-xml-v4",
     "version": "0.1.0",
-    "private": true
+    "private": true,
+    "main": "./lib/o3-xml/index"
 }
